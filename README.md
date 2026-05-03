@@ -24,7 +24,7 @@ I work with AI — mostly building models, tools, and occasionally staring at my
 
 ---
 
-## Fun stuff
+## Facts
 - If it works, I don’t touch it  
 - Fixed a bug yesterday, it came back stronger today  
 - Sometimes I debug successfully without knowing what I did  
