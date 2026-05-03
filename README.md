@@ -18,12 +18,7 @@ I work with AI — mostly building models, tools, and occasionally staring at my
 
 ---
 
-## Stats (just for fun)
-![stats](https://github-readme-stats.vercel.app/api?username=khanhle1406&show_icons=true)
-
----
-
-## This snake is eating my commits 🐍
+## Ahhh... This snake is eating my commits 🐍 🐍
 ![snake gif](https://github.com/khanhle1406/khanhle1406/blob/output/github-contribution-grid-snake.svg)
 
 ---
