@@ -5,16 +5,17 @@ I work with AI — mostly building models, tools, and occasionally staring at my
 ---
 
 ## About me
-- Working on AI, automation, and system-related stuff  
-- Interested in making machines do the boring work  
-- Into trading a bit, though sometimes the AI disagrees with me  
+- AI Engineer focused on Natural Language Processing (NLP) and Computer Vision (CV)  
+- Building practical systems for text and image understanding  
+- Interested in applying AI to real-world problems and automation workflows  
 
 ---
 
 ## What I use
-- Python (basically living here)
-- Some JavaScript
-- ML / DL / APIs
+- Python for machine learning and data processing  
+- PyTorch / TensorFlow for deep learning  
+- OpenCV and NLP libraries for handling images and text  
+- APIs and backend systems for deploying models  
 
 ---
 
